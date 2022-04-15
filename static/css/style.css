@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+    overflow-y:hidden
+}
+
+.gfg {
+    margin: 3%;
+    position: relative;
+    height: 700px;
+    width: 614px;
+}
+
+.first-txt {
+    font-family: monospace;
+    font-size: large;
+    position: absolute;
+    line-height: 2em;
+    top: 170px;
+    /* left: 99px; */
+    /* margin-left: 22%; */
+    color: rgb(255, 255, 255);
+    background: rgba(0, 0, 0, 0.781);
+    /* width: 550px; */
+    white-space: pre-line;
+    text-align: justify;
+}
+
+/* 
+header
+{
+    background: #000;
+
+}
+header h1{
+    display: flex; 
+    /* display:flex this activates flexbox */
+    /* align-content: center;
+    justify-content: center;
+    color: white;
+    
+}  */
